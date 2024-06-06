@@ -1,0 +1,1 @@
+enum Method { greedy, robust }
